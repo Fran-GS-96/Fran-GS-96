@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fran-GS-96
-- 👀 I’m interested in Data Analysis and IA
+- 👀 I’m interested in Data Analysis and AI
 - 🌱 I’m currently learning about the weather
 - 💞️ I’m looking to collaborate on forecasting, data analysis, etc.
 - 📫 How to reach me ...
