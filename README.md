@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fran-GS-96
-- 👀 I’m interested in Data Analysis and AI
-- 🌱 I’m currently learning about the weather
-- 💞️ I’m looking to collaborate on forecasting, data analysis, etc.
+- 👀 I’m interested in Data science
+- 🌱 I’m currently learning about forecasting
+- 💞️ I’m looking to collaborate on research and any interesting question.
 - 📫 How to reach me ...
 
 <!---
